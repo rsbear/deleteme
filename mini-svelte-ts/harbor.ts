@@ -1,6 +1,7 @@
 import { mount as svelteMount } from "svelte";
 import App from "./App.svelte";
 
-export function harborMini(target: HTMLElement) {
+export const harborMini = "svelte";
+export function harborMount(target: HTMLElement, harborApi: any) {
   svelteMount(App, { target, props: { yeye: "yeyeye" } });
 }
