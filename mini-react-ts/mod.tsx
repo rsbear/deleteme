@@ -16,7 +16,7 @@ function App() {
 
 console.log("Hello from mini-react-ts!", App);
 
-export function mount(targetElement: HTMLElement, stuff: any) {
+export function harborMini(targetElement: HTMLElement, stuff: any) {
   // we dont need an onSubmit for this app yet
   const root = ReactDOM.createRoot(targetElement);
   root.render(<App />);
