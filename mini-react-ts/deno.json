@@ -12,5 +12,11 @@
     ],
     "jsx": "react-jsx",
     "jsxImportSource": "react"
+  },
+  "imports": {
+    "@types/react": "npm:@types/react@^19.1.8",
+    "@types/react-dom": "npm:@types/react-dom@^19.1.6",
+    "react": "npm:react@^19.1.0",
+    "react-dom": "npm:react-dom@^19.1.0"
   }
 }
