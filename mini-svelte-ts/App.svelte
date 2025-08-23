@@ -6,7 +6,6 @@
 </script>
 
 <main>
-  <h1>Hello {appState.name}!</h1>
   <p>You clicked {count} times.</p>
   <button on:click={decrement}>-</button>
   <button on:click={increment}>+</button>
