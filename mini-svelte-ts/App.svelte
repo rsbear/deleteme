@@ -7,6 +7,6 @@
 
 <main>
   <p>You clicked {count} times.</p>
-  <button on:click={decrement}>-</button>
-  <button on:click={increment}>+</button>
+  <button onclick={decrement}>-</button>
+  <button onclick={increment}>+</button>
 </main>
