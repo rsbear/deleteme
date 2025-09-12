@@ -10,7 +10,7 @@
     "react-dom": "^19"
   },
   "devDependencies": {
-    "@tugboats/core": "^0.0.5",
+    "@tugboats/core": "^0.0.7",
     "@types/bun": "latest",
     "@types/react": "^19",
     "@types/react-dom": "^19"
