@@ -4,7 +4,7 @@
     "": {
       "name": "bun-react-template",
       "dependencies": {
-        "@tugboats/core": "^0.0.2",
+        "@tugboats/core": "^0.0.5",
         "react": "^19",
         "react-dom": "^19",
       },
@@ -18,7 +18,7 @@
   "packages": {
     "@tauri-apps/api": ["@tauri-apps/api@2.8.0", "", {}, "sha512-ga7zdhbS2GXOMTIZRT0mYjKJtR9fivsXzsyq5U3vjDL0s6DTMwYRm0UHNjzTY5dh4+LSC68Sm/7WEiimbQNYlw=="],
 
-    "@tugboats/core": ["@tugboats/core@0.0.2", "", { "dependencies": { "@tauri-apps/api": "^2.8.0", "nanoid": "^5.1.5" } }, "sha512-ONeFjswLKvf3mUMvSYPK5AU0w4VZJtekAg9wtBht5VW3qYIhI0pB0OpDgqW0UsJGFmFR5YxBVxxeGe2sihUeDw=="],
+    "@tugboats/core": ["@tugboats/core@0.0.5", "", { "dependencies": { "@tauri-apps/api": "^2.8.0", "nanoid": "^5.1.5" } }, "sha512-McVwDrDthRK3lTCz1bWjUvAnbzQpY3rF/4wov5He7Fl/jNGABGfFgbAfR3CeDn9hT+9n1NbFX/VmAbUXXmJSoA=="],
 
     "@types/bun": ["@types/bun@1.2.21", "", { "dependencies": { "bun-types": "1.2.21" } }, "sha512-NiDnvEqmbfQ6dmZ3EeUO577s4P5bf4HCTXtI6trMc6f6RzirY5IrF3aIookuSpyslFzrnvv2lmEWv5HyC1X79A=="],
 
