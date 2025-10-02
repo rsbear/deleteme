@@ -1,4 +1,4 @@
-#  Harbor Mini‑App Entry Point (`harbor.ts`) sup
+#  Harbor Mini‑App Entry Point (`harbor.ts`) sup sup
 
 Every Harbor mini‑app must include a **`harbor.ts(x)`** file at its root.  
 This file tells Harbor **what framework the app uses** and provides the functions Harbor calls to mount/unmount the app inside the host.
